@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\WebApplication6.exe
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\WebApplication6.dll
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\WebApplication6.deps.json
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\WebApplication6.runtimeconfig.json
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\WebApplication6.pdb
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
